@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+*.obj
+*.layout
+*.depend
+rdv.txt
